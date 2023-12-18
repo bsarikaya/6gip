@@ -10,3 +10,5 @@ Stage 1
 23.288 Architecture enhancements for 5G System (5GS) to support network data analytics services
 
 3gpp-satellite-communication Using 3GPP technology for satellite communication
+
+Secure federated learning in 5G Networks
