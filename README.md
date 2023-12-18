@@ -11,4 +11,4 @@ Stage 1
 
 3gpp-satellite-communication Using 3GPP technology for satellite communication
 
-Secure federated learning in 5G Networks
+Secure federated learning in 5G mobile networks
